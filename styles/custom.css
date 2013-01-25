@@ -155,7 +155,7 @@ body{background-image: url(subtle_stripes.png); background-color: rgb(181, 181, 
 
 #divLogo{margin-top: 43px; margin-bottom: 0px; }
 
-#divSiteTitle{font-family: Chewy; font-size: 34px; line-height: 50px; color: rgb(212, 50, 32); text-shadow: none; letter-spacing: 4px; font-weight: bold; font-style: normal; text-transform: uppercase;}
+#divSiteTitle{font-family: Chewy; font-size: 34px; line-height: 50px; color: rgb(150, 100, 43); text-shadow: none; letter-spacing: 4px; font-weight: bold; font-style: normal; text-transform: uppercase;}
 
 #divTagLine{ color: rgb(150, 150, 150); line-height: 22px; word-spacing: 1em; letter-spacing: 8px; font-size: 18px; padding-left: 2px; padding-right: 2px; background-color: transparent; text-shadow: none; font-family: Abel; font-weight: normal; font-style: normal; text-decoration: initial;}
 
@@ -197,7 +197,7 @@ h1{font-weight: normal; font-style: normal; letter-spacing: 0px; line-height: 58
 
 .page-content, .page-content li{line-height: 22px; ;font-family: Maven Pro;}
 
-.page-content a{color: rgb(191, 13, 0); font-family: Maven Pro;}
+.page-content a{color: rgb(150, 100, 43); font-family: Maven Pro;}
 
 .sidebox{background-color: rgb(250, 250, 250); -webkit-box-shadow: none; box-shadow: none; padding: 18px; margin-top: 26px; border: 1px solid rgb(235, 235, 235); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; font-family: Maven Pro; line-height: 24px; color: rgb(51, 51, 51);}
 
@@ -207,7 +207,7 @@ h1{font-weight: normal; font-style: normal; letter-spacing: 0px; line-height: 58
 
 .sidebox a{color: rgb(191, 13, 0); font-family: Maven Pro;}
 
-#divFooter{border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; background-color: rgb(191, 13, 0); color: rgb(227, 227, 227); font-family: Maven Pro; text-transform: none; font-size: 12px; letter-spacing: 0px; line-height: 22px; background-image: -webkit-linear-gradient(top, rgb(191, 13, 0), rgb(171, 11, 0));}
+#divFooter{border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; background-color: rgb(150, 100, 43); color: rgb(227, 227, 227); font-family: Maven Pro; text-transform: none; font-size: 12px; letter-spacing: 0px; line-height: 22px; background-image: -webkit-linear-gradient(top, rgb(150, 100, 43), rgb(122, 82, 37));}
 
 .divPanel{padding: 40px;}
 
@@ -227,7 +227,7 @@ h2{font-weight: normal; font-style: normal; ;font-family: Terminal Dosis Light;}
 
 #divHeaderLine3{margin-top: 25px; line-height: 21px; }
 
-#divFooter{background-image:-moz-linear-gradient(bottom,#ab0b00,#bf0d00);filter:progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr=#bf0d00, endColorstr=#ab0b00);background-image:-o-linear-gradient(bottom,#ab0b00,#bf0d00);background-image:-webkit-gradient(linear,left top, left bottom,from(#ab0b00),to(#bf0d00));background-image:-webkit-linear-gradient(bottom,#ab0b00,#bf0d00);background-image:linear-gradient(bottom,#ab0b00,#bf0d00);}
+#divFooter{background-image:-moz-linear-gradient(bottom,#664D2A,#9A5B14);filter:progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr=#9A5B14, endColorstr=#664D2A);background-image:-o-linear-gradient(bottom,#664D2A,#9A5B14);background-image:-webkit-gradient(linear,left top, left bottom,from(#664D2A),to(#9A5B14));background-image:-webkit-linear-gradient(bottom,#664D2A,#9A5B14);background-image:linear-gradient(bottom,#664D2A,#9A5B14);}
 
 a.btn, a.btn-large, a.btn-small, a.btn-mini {color:#333}
 
@@ -275,7 +275,7 @@ h6,.page-content h6 a{font-weight: normal; font-style: normal; ;font-family: Ter
 
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle {background:none}
 
-.navbar .nav-pills > .active > a, .navbar .nav-pills > .active > a:hover, .navbar .nav-pills li.dropdown.open > .dropdown-toggle, .navbar .nav-pills li.dropdown.active > .dropdown-toggle {color: rgb(255, 255, 255); background-color: rgb(212, 14, 0); border-bottom-style: none;}
+.navbar .nav-pills > .active > a, .navbar .nav-pills > .active > a:hover, .navbar .nav-pills li.dropdown.open > .dropdown-toggle, .navbar .nav-pills li.dropdown.active > .dropdown-toggle {color: rgb(255, 255, 255); background-color: rgb(150, 100, 43); border-bottom-style: none;}
 
 .navbar .ddmenu {margin-top: 0px; margin-bottom: 3px;}
 
