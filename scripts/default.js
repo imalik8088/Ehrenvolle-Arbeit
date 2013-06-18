@@ -50,13 +50,6 @@ $(document).ready(function () {
             author : 'Hazrat Khalifa-tul-Massih II',
             title : 'Ziele von Waqar-e-Amal',
             content : 'Es ist sehr wichtig, dass man sich angewöhnt, stets zu arbeiten und es ist sehr wichtig, dass dieses Bewusstsein in der Jamaat erweckt wird, damit die Schwachen fleißig werden und damit es keinen mehr gibt, der Arbeit als niederträchtig betrachtet.'
-        },
-        2 : {
-            img : 'format.jpg',
-            author : 'Steve Jobs',
-            title : 'Address at Stanford University',
-            content : "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma — which is living with the results of other people's thinking.",
-            link: 'http://en.wikiquote.org/wiki/Steve_Jobs#Address_at_Stanford_University_.282005.29'
         }
     };
 
